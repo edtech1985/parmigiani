@@ -39,10 +39,10 @@ function Home() {
         </StyledP>
 
         <StyledP>
-          Localizado na Zona Norte de Porto Alegre, estamos prontos para atender
-          às suas necessidades culinárias. Com a nossa dedicação à qualidade e
-          ao sabor, você pode ter certeza de que encontrará os ingredientes
-          perfeitos para suas criações na cozinha.
+          Localizado na Rua Adão Baino, 329, Porto Alegre/RS, estamos prontos
+          para atender às suas necessidades culinárias. Com a nossa dedicação à
+          qualidade e ao sabor, você pode ter certeza de que encontrará os
+          ingredientes perfeitos para suas criações na cozinha.
         </StyledP>
 
         <StyledP>

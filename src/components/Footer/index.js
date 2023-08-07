@@ -11,7 +11,7 @@ function Footer() {
   return (
     <StyledFooter>
       <StyledIconList>
-        <StyledIconItem>
+        <StyledIconItem color="green">
           <a
             href="https://www.instagram.com/portosaborcatering/"
             target="_blank"
@@ -34,7 +34,7 @@ function Footer() {
           </a>
         </StyledIconItem>
 
-        <StyledIconItem>
+        <StyledIconItem color="red">
           <a
             href="https://api.whatsapp.com/send?phone=5551983096133"
             target="_blank"

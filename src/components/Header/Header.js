@@ -44,12 +44,11 @@ export const StyledNavbar = styled.nav`
 export const StyledNavItem = styled(NavLink)`
   display: block;
   padding: 1vw;
-  color: #fff;
+  color: var(--white);
   text-decoration: none;
   font-size: 2vw;
   &:hover {
-    color: var(--yellow);
-    border-radius: 10px;
+    color: var(--red);
   }
   &.active {
     color: var(--green);
@@ -109,6 +108,7 @@ export const StyledCartDiv = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+
   a {
     text-decoration: none;
     color: inherit;

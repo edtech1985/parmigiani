@@ -33,6 +33,7 @@ export const StyledIconItem = styled.li`
   list-style-type: none;
   font-size: 2vw;
   cursor: pointer;
+  color: ${(props) => props.color || "inherit"};
   &:hover {
     color: var(--yellow);
   }
