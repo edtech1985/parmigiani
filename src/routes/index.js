@@ -8,6 +8,7 @@ import { CartProvider } from "../components/CartContext";
 import Butchery from "../pages/Butchery";
 import { Bakery } from "../pages/Bakery";
 import { Convenience } from "../pages/Convenience";
+import Products from "../pages/Products";
 
 export default function AppRouter() {
   return (
@@ -17,6 +18,7 @@ export default function AppRouter() {
           <Header />
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/products" element={<Products />} />
             <Route path="/acougue" element={<Butchery />} />
             <Route path="/padaria" element={<Bakery />} />
             <Route path="/conveniencia" element={<Convenience />} />

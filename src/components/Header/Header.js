@@ -35,7 +35,7 @@ export const StyledNavbar = styled.nav`
     flex-direction: column;
     background-color: var(--dark);
     width: 100%;
-    height: 100vh;
+    height: 110vh;
     padding-top: 0; /* Ajuste do espaço para o menu */
     z-index: 999;
   }
@@ -80,7 +80,7 @@ export const BurgerMenuButton = styled.button`
       height: 2px;
       margin-bottom: 6px;
       position: relative;
-      background-color: var(--green);
+      /* background-color: var(--green); */
       border-radius: 2px;
       transform-origin: center;
       transition: transform 0.4s ease-out, opacity 0.4s ease-out;
@@ -90,14 +90,17 @@ export const BurgerMenuButton = styled.button`
       }
 
       &:first-child {
+        background-color: var(--green);
         transform: ${({ open }) => (open ? "rotate(45deg)" : "rotate(0)")};
       }
 
       &:nth-child(2) {
+        background-color: var(--white);
         opacity: ${({ open }) => (open ? "0" : "1")};
       }
 
       &:nth-child(3) {
+        background-color: var(--red);
         transform: ${({ open }) => (open ? "rotate(-45deg)" : "rotate(0)")};
       }
     }

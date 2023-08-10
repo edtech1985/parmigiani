@@ -1,4 +1,4 @@
-import React, { useState, useContext } from "react";
+import React, { useState, useEffect } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { FaShoppingCart } from "react-icons/fa";
 import {
@@ -12,11 +12,18 @@ import {
   BurgerMenuButton,
 } from "./Header";
 import logo from "../../img/logo.png";
-import { CartContext } from "../CartContext";
 
 function Header() {
+  const [cartItems, setCartItems] = useState([]);
+
+  useEffect(() => {
+    const items = JSON.parse(localStorage.getItem("CartItems"));
+    if (items) {
+      setCartItems(items);
+    }
+  }, []);
+
   const [isOpen, setIsOpen] = useState(false);
-  const { cartCount } = useContext(CartContext);
 
   const handleMenuClick = () => {
     setIsOpen(!isOpen);
@@ -25,13 +32,6 @@ function Header() {
   const handleNavItemClick = () => {
     setIsOpen(false);
   };
-
-  // useEffect(() => {
-  //   const items = JSON.parse(localStorage.getItem("cartItems"));
-  //   if (items) {
-  //     setCartCount(items.length);
-  //   }
-  // }, []);
 
   return (
     <StyledHeader>
@@ -108,7 +108,7 @@ function Header() {
         <Link to="/checkout">
           <StyledCartIcon>
             <FaShoppingCart />
-            <StyledCartCount>{cartCount}</StyledCartCount>
+            <StyledCartCount>{cartItems.length}</StyledCartCount>
           </StyledCartIcon>
         </Link>
       </StyledCartDiv>
