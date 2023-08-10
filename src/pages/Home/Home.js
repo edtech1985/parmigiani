@@ -1,5 +1,6 @@
 import styled from "styled-components";
-import backgroundImage from "./backgroundImage";
+// import backgroundImage from "./backgroundImage";
+import backgroundImage from "../../img/store.jpg";
 
 export const StyledContainer = styled.div`
   position: relative;
@@ -24,12 +25,13 @@ export const StyledBackground = styled.div`
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 100vh;
   background-image: url(${backgroundImage});
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   background-position: center center;
-  opacity: 0.15;
+  opacity: 0.25;
+  z-index: -10;
 `;
 
 export const StyledContent = styled.div`
