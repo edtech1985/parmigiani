@@ -28,7 +28,9 @@ function Header() {
 
   return (
     <StyledHeader>
-      <StyledLogo src={logo} alt="Logo da loja" />
+      <Link to="/">
+        <StyledLogo src={logo} alt="Logo da loja" />
+      </Link>
 
       <BurgerMenuButton
         id="BurgerButtonMenu"

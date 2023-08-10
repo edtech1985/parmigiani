@@ -147,7 +147,9 @@ export const StyledCartIcon = styled.div`
   }
 
   @media only screen and (max-width: 600px) {
-    font-size: 1rem;
+    font-size: 0.75rem;
+    width: 7vh;
+    height: 8vh;
   }
 `;
 

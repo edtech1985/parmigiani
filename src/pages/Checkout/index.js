@@ -7,15 +7,17 @@ import {
   CheckoutSummaryValue,
   CheckoutTable,
   CheckoutTableData,
+  CheckoutTableDataActions,
   CheckoutTableDataName,
   CheckoutTableDataPrice,
   CheckoutTableDataQuantity,
   CheckoutTableHead,
   CheckoutTableRow,
+  DivButton,
   MinusButton,
   PlusButton,
   QuantityButtons,
-  RemoveButton,
+  TrashIcon,
 } from "./Checkout";
 import { CartContext } from "../../components/CartContext";
 
@@ -34,11 +36,11 @@ function Checkout() {
     <CheckoutContainer>
       <CheckoutTable>
         <CheckoutTableHead>
-          <CheckoutTableDataName>Product</CheckoutTableDataName>
-          <CheckoutTableDataPrice>Price</CheckoutTableDataPrice>
-          <CheckoutTableDataQuantity>Quantity</CheckoutTableDataQuantity>
-          <CheckoutTableData>Total</CheckoutTableData>
-          <CheckoutTableData>Actions</CheckoutTableData>
+          <CheckoutTableDataName>Produtos</CheckoutTableDataName>
+          <CheckoutTableDataPrice>Preço Un.</CheckoutTableDataPrice>
+          <CheckoutTableDataQuantity>Quantidade</CheckoutTableDataQuantity>
+          <CheckoutTableData>Subtotal</CheckoutTableData>
+          <CheckoutTableDataActions></CheckoutTableDataActions>
         </CheckoutTableHead>
         <tbody>
           {cartItems.map((item) => (
@@ -72,11 +74,9 @@ function Checkout() {
               <CheckoutTableData>{`R$ ${(item.price * item.quantity).toFixed(
                 2
               )}`}</CheckoutTableData>
-              <CheckoutTableData>
-                <RemoveButton onClick={() => removeFromCart(item.id)}>
-                  Remove
-                </RemoveButton>
-              </CheckoutTableData>
+              <CheckoutTableDataActions>
+                <TrashIcon onClick={() => removeFromCart(item.id)} />
+              </CheckoutTableDataActions>
             </CheckoutTableRow>
           ))}
         </tbody>
@@ -87,17 +87,19 @@ function Checkout() {
           2
         )}`}</CheckoutSummaryValue>
       </CheckoutSummary>
-      <a
-        href={`https://wa.me/555191350280?text=${encodeURIComponent(
-          `Olá, Parmigiani! Escolhi os seguintes itens: ${cartItems
-            .map((item) => `${item.quantity} ${item.name}`)
-            .join(", ")}, total R$ ${getTotalPrice().toFixed(2)}`
-        )}. Qual o valor da entrega para meu endereço?`}
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <CheckoutButton>Checkout</CheckoutButton>
-      </a>
+      <DivButton>
+        <a
+          href={`https://wa.me/555191350280?text=${encodeURIComponent(
+            `Olá, Parmigiani! Escolhi os seguintes itens: ${cartItems
+              .map((item) => `${item.quantity} ${item.name}`)
+              .join(", ")}, total R$ ${getTotalPrice().toFixed(2)}`
+          )}. Qual o valor da entrega para meu endereço?`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <CheckoutButton>Checkout</CheckoutButton>
+        </a>
+      </DivButton>
     </CheckoutContainer>
   );
 }
