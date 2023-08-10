@@ -7,15 +7,18 @@ import {
   ProductName,
   ColumnTitle,
   ProductPrice,
+  SearchInput,
+  SearchInputContainer,
+  SearchIcon,
 } from "./Products";
-
 import { CartContext } from "../../components/CartContext/index";
-
 import productsData from "../../db/products.json";
+import removeAccents from "remove-accents";
 
 export default function Products() {
   const [selectedProduct, setSelectedProduct] = useState(null);
-  const { handleAddToCart } = useContext(CartContext);
+  const [searchTerm, setSearchTerm] = useState("");
+  const { addToCart } = useContext(CartContext);
 
   const openModal = (product) => {
     setSelectedProduct(product);
@@ -44,21 +47,36 @@ export default function Products() {
     };
   }, []);
 
+  const filteredProducts = productsData.ProductsList.filter((product) =>
+    removeAccents(product.name.toLowerCase()).includes(
+      removeAccents(searchTerm.toLowerCase())
+    )
+  );
+
   return (
     <div>
+      <SearchInputContainer>
+        <SearchInput
+          type="text"
+          placeholder="Pesquisar produto..."
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+        ></SearchInput>
+        <SearchIcon />
+      </SearchInputContainer>
+
       <ProductContainer>
-        <ColumnTitle width="30%">Nome</ColumnTitle>
-        <ColumnTitle width="30%">Valor</ColumnTitle>
-        <ColumnTitle width="30%">Adicionar</ColumnTitle>
+        <ColumnTitle>Nome</ColumnTitle>
+        <ColumnTitle>Valor</ColumnTitle>
+        <ColumnTitle>Adicionar</ColumnTitle>
       </ProductContainer>
-      {productsData.ProductsList.map((product) => (
+      {filteredProducts.map((product) => (
         <ProductContainer key={product.id}>
           <ProductName onClick={() => openModal(product)}>
             {product.name}
           </ProductName>
           <ProductPrice>R$ {product.price.toFixed(2)}</ProductPrice>
-          <AddToCartIcon onClick={() => handleAddToCart(product)} />{" "}
-          {/* Adicione esta linha */}
+          <AddToCartIcon onClick={() => addToCart(product)} />
         </ProductContainer>
       ))}
       {selectedProduct && (

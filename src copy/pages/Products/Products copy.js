@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { FaShoppingCart, FaSearch } from "react-icons/fa";
+import { FaShoppingCart } from "react-icons/fa";
 
 export const ProductContainer = styled.div`
   display: flex;
@@ -11,31 +11,11 @@ export const ProductContainer = styled.div`
   width: 95vw;
 `;
 
-export const SearchInputContainer = styled.div`
-  position: relative;
-`;
-
-export const SearchInput = styled.input`
-  width: 50%;
-  padding: 10px 30px 10px 10px;
-  margin: 20px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  background: url(${({ icon }) => icon}) no-repeat right center;
-  background-size: 20px;
-`;
-
-export const SearchIcon = styled(FaSearch)`
-  color: #aaa;
-  cursor: pointer;
-`;
-
 export const ColumnTitle = styled.span`
   font-weight: bold;
   flex: 1;
   text-align: left;
-  width: 20%;
+  width: ${(props) => props.width};
 `;
 
 export const ProductName = styled.span`

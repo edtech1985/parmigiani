@@ -17,7 +17,7 @@ import {
   QuantityButtons,
   RemoveButton,
 } from "./Checkout";
-import { CartContext } from "../../components/CartContext";
+import { CartContext } from "../../components/CartContext"; // Verifique o caminho correto para o seu contexto
 
 function Checkout() {
   const { cartItems, updateCartItemQuantity, removeFromCart } =
@@ -88,7 +88,7 @@ function Checkout() {
         )}`}</CheckoutSummaryValue>
       </CheckoutSummary>
       <a
-        href={`https://wa.me/555191350280?text=${encodeURIComponent(
+        href={`https://wa.me/5551993358455?text=${encodeURIComponent(
           `Olá, Parmigiani! Escolhi os seguintes itens: ${cartItems
             .map((item) => `${item.quantity} ${item.name}`)
             .join(", ")}, total R$ ${getTotalPrice().toFixed(2)}`

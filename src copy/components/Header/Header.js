@@ -64,7 +64,7 @@ export const BurgerMenuButton = styled.button`
 
   @media screen and (max-width: 600px) {
     display: block;
-    position: absolute;
+    position: fixed;
     top: 15px;
     right: 20px;
     z-index: 999;
