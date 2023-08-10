@@ -48,7 +48,7 @@ export default function Products() {
     };
   }, []);
 
-  // Filtrar produtos com base no termo de pesquisa
+  // Filtrar produtos com base no termo de pesquisa -
   const filteredProducts = productsData.ProductsList.filter((product) =>
     product.name.toLowerCase().includes(searchTerm.toLowerCase())
   );

@@ -26,13 +26,6 @@ function Header() {
     setIsOpen(false);
   };
 
-  // useEffect(() => {
-  //   const items = JSON.parse(localStorage.getItem("cartItems"));
-  //   if (items) {
-  //     setCartCount(items.length);
-  //   }
-  // }, []);
-
   return (
     <StyledHeader>
       <StyledLogo src={logo} alt="Logo da loja" />

@@ -3,6 +3,8 @@
 
 **/backup*/
 **/copy*/
+**/*copy*/
+**/*copy/
 
 # dependencies
 /node_modules
