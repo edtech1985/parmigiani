@@ -11,12 +11,12 @@ import {
   SearchInputContainer,
   SearchIcon,
   FixedHeaderContainer,
-} from "./Butchery";
+} from "./Beverages";
 import { CartContext } from "../../components/CartContext/index";
 import productsData from "../../db/products.json";
 import removeAccents from "remove-accents";
 
-export default function Butchery() {
+export default function Beverages() {
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [searchTerm, setSearchTerm] = useState("");
   const { addToCart } = useContext(CartContext);
@@ -54,8 +54,8 @@ export default function Butchery() {
     )
   );
 
-  const butcheryProducts = filteredProducts.filter(
-    (product) => product.group === "ACOUGUE"
+  const beveragesProducts = filteredProducts.filter(
+    (product) => product.group === "BEBIDAS"
   );
 
   return (
@@ -83,7 +83,7 @@ export default function Butchery() {
           </ColumnTitle>
         </ProductContainer>
       </FixedHeaderContainer>
-      {butcheryProducts.map((product) => (
+      {beveragesProducts.map((product) => (
         <ProductContainer key={product.id}>
           <ProductName onClick={() => openModal(product)}>
             {product.name}

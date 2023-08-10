@@ -10,6 +10,7 @@ import {
   SearchInput,
   SearchInputContainer,
   SearchIcon,
+  FixedHeaderContainer,
 } from "./Products";
 import { CartContext } from "../../components/CartContext/index";
 import productsData from "../../db/products.json";
@@ -64,12 +65,19 @@ export default function Products() {
         ></SearchInput>
         <SearchIcon />
       </SearchInputContainer>
-
-      <ProductContainer>
-        <ColumnTitle>Nome</ColumnTitle>
-        <ColumnTitle>Valor</ColumnTitle>
-        <ColumnTitle>Adicionar</ColumnTitle>
-      </ProductContainer>
+      <FixedHeaderContainer>
+        <ProductContainer>
+          <ColumnTitle align="left" width="50vw">
+            Nome
+          </ColumnTitle>
+          <ColumnTitle align="center" width="20vw">
+            Valor
+          </ColumnTitle>
+          <ColumnTitle align="right" width="15vw">
+            Adicionar
+          </ColumnTitle>
+        </ProductContainer>
+      </FixedHeaderContainer>
       {filteredProducts.map((product) => (
         <ProductContainer key={product.id}>
           <ProductName onClick={() => openModal(product)}>

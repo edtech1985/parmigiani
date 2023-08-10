@@ -82,11 +82,20 @@ function Header() {
 
         <StyledNavItem
           as={NavLink}
-          to="/conveniencia"
+          to="/bebidas"
           onClick={handleNavItemClick}
-          aria-label="link para conveniência"
+          aria-label="link para bebidas"
         >
-          Conveniência
+          Bebidas
+        </StyledNavItem>
+
+        <StyledNavItem
+          as={NavLink}
+          to="/higiene"
+          onClick={handleNavItemClick}
+          aria-label="link para higiêne"
+        >
+          Higiêne
         </StyledNavItem>
 
         <StyledNavItem
@@ -95,7 +104,7 @@ function Header() {
           onClick={handleNavItemClick}
           aria-label="link para checkout"
         >
-          Checkout
+          Carrinho
         </StyledNavItem>
       </StyledNavbar>
 

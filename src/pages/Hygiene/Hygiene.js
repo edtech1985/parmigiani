@@ -6,7 +6,7 @@ export const ProductContainer = styled.div`
   align-items: center;
   justify-content: space-between;
   margin: 0.25rem;
-  padding: 0.5rem;
+  padding: 0.25rem;
   border: 1px solid #ccc;
   width: 95vw;
 `;
@@ -31,16 +31,26 @@ export const SearchIcon = styled(FaSearch)`
   cursor: pointer;
 `;
 
+export const FixedHeaderContainer = styled.div`
+  display: flex;
+  align-items: center;
+  background-color: lightgray;
+  /* position: sticky; */
+  top: 0;
+  z-index: 1;
+`;
+
 export const ColumnTitle = styled.span`
   font-weight: bold;
   flex: 1;
-  text-align: left;
-  width: 20%;
+  text-align: ${(props) => props.align || "left"};
+  width: ${(props) => props.width || "20%"};
 `;
 
 export const ProductName = styled.span`
   cursor: pointer;
   width: 30%;
+  text-align: left;
   &:hover {
     text-decoration: underline;
     color: var(--green);

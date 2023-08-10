@@ -116,7 +116,7 @@
             "name": "ABOVE BLACK EXTREME 60G",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -125,7 +125,7 @@
             "name": "ABOVE BLACK EXTREME 60G",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -134,7 +134,7 @@
             "name": "ABSORVENTE ALWAYS P 08 A",
             "Unidade": "Un",
             "price": 6.3,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -143,7 +143,7 @@
             "name": "ABSORVENTE INTIMUS",
             "Unidade": "Un",
             "price": 9.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -152,7 +152,7 @@
             "name": "ABSORVENTE NOITE/DIA SYM",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -161,7 +161,7 @@
             "name": "ABSORVENTE NOTURNO COT",
             "Unidade": "Un",
             "price": 6.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -170,7 +170,7 @@
             "name": "ABSORVENTES INTIMUS 40UNI",
             "Unidade": "Un",
             "price": 14.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -197,7 +197,7 @@
             "name": "ACETONA BEIRA ALTA 90ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -206,7 +206,7 @@
             "name": "ACETONA ZULU 90ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -368,7 +368,7 @@
             "name": "AGUA COM GAS 1,5 L",
             "Unidade": "Un",
             "price": 5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -377,7 +377,7 @@
             "name": "AGUA HORTENSIAS 5L",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -386,7 +386,7 @@
             "name": "AGUA HORTENSIAS 5L",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -395,7 +395,7 @@
             "name": "AGUA MINERAL 5L FONTE DA",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -404,7 +404,7 @@
             "name": "AGUA MINERAL COM GAS DA",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -413,7 +413,7 @@
             "name": "AGUA MINERAL COM GAS DA",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -422,7 +422,7 @@
             "name": "AGUA MINERAL COM GAS FL",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -431,7 +431,7 @@
             "name": "AGUA MINERAL S GAS FLORE",
             "Unidade": "Un",
             "price": 7.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -440,7 +440,7 @@
             "name": "AGUA 2L COM GAS F ILHA",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -449,7 +449,7 @@
             "name": "AGUA C GÁS 500ML DA ILHA",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -458,7 +458,7 @@
             "name": "AGUA COM GAS FONTE DA ILH",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -467,7 +467,7 @@
             "name": "AGUA COM GAS FONTE DA ILH",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -476,7 +476,7 @@
             "name": "AGUA COM GAS TUTTI GIORNI",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -485,7 +485,7 @@
             "name": "AGUA DA PEDRA C GAS 500ML",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -494,7 +494,7 @@
             "name": "AGUA DA PEDRA S GAS 500ML",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -503,7 +503,7 @@
             "name": "AGUA DA PEDRA SEM GAS 1,5",
             "Unidade": "Un",
             "price": 5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -512,7 +512,7 @@
             "name": "AGUA DA PEDRA SEM GAS 1,5",
             "Unidade": "Un",
             "price": 5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -521,7 +521,7 @@
             "name": "AGUA HORTENSIAS SEM GAS",
             "Unidade": "Un",
             "price": 5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -530,7 +530,7 @@
             "name": "AGUA MINERAL C/ GAS 2L FLO",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -539,7 +539,7 @@
             "name": "AGUA MINERAL SEM GAS 500",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -548,7 +548,7 @@
             "name": "AGUA MINERAL SEM GAS 5L",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -557,7 +557,7 @@
             "name": "AGUA MINRAL S GAS 500MLH",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -566,7 +566,7 @@
             "name": "AGUA OXIGENADA VOL 20",
             "Unidade": "Un",
             "price": 4.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -575,7 +575,7 @@
             "name": "AGUA S/GAS VALLE VITA 500M",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -584,7 +584,7 @@
             "name": "AGUA SEM GAS 500ML BLU 50",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -593,7 +593,7 @@
             "name": "AGUA SEM GAS 500ML BLU 50",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -602,7 +602,7 @@
             "name": "AGUA TONICA SARANDI 500ML",
             "Unidade": "Un",
             "price": 4.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -611,7 +611,7 @@
             "name": "AGUA TONICA SARANDI 500ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -620,7 +620,7 @@
             "name": "AGUA TONICA SARANDI 500ML",
             "Unidade": "Un",
             "price": 4.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -791,7 +791,7 @@
             "name": "ALGODAO NATHY 25G",
             "Unidade": "Un",
             "price": 2.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -899,7 +899,7 @@
             "name": "ALURAYS ABSORVENTE 8",
             "Unidade": "Un",
             "price": 8.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1718,7 +1718,7 @@
             "name": "BALY BRASIL TRADICIONAL 2L",
             "Unidade": "Un",
             "price": 16.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1727,7 +1727,7 @@
             "name": "BALY CITRUS LIMAO 473ML",
             "Unidade": "Un",
             "price": 9.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1736,7 +1736,7 @@
             "name": "BALY COCA COFFEE 473ML",
             "Unidade": "Un",
             "price": 9.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1745,7 +1745,7 @@
             "name": "BALY COCO E ACAI 473ML",
             "Unidade": "Un",
             "price": 9.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1754,7 +1754,7 @@
             "name": "BALY DAS GALAXIAS 2L",
             "Unidade": "Un",
             "price": 16.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1763,7 +1763,7 @@
             "name": "BALY ENERGY DRINK 473ML",
             "Unidade": "Un",
             "price": 9.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1772,7 +1772,7 @@
             "name": "BALY MACA VERDE S/ACUCAR",
             "Unidade": "Un",
             "price": 9.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1781,7 +1781,7 @@
             "name": "BALY MORANGO E PESSEGO",
             "Unidade": "Un",
             "price": 9.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1790,7 +1790,7 @@
             "name": "BALY TROPICAL 473ML",
             "Unidade": "Un",
             "price": 10,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1799,7 +1799,7 @@
             "name": "BALY TROPICAL 473ML",
             "Unidade": "Un",
             "price": 10,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1808,7 +1808,7 @@
             "name": "BALY TROPICAL 473ML",
             "Unidade": "Un",
             "price": 9.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -1997,7 +1997,7 @@
             "name": "BATAVINHO BOB ESPONJA 80",
             "Unidade": "Un",
             "price": 1.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -2006,7 +2006,7 @@
             "name": "BATAVINHO BOB ESPONJA 80",
             "Unidade": "Un",
             "price": 2.3,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -2105,7 +2105,7 @@
             "name": "BAVARIA 473ML",
             "Unidade": "Un",
             "price": 5.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -3383,7 +3383,7 @@
             "name": "BURN ENERGY ORIGINAL 1",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -3392,7 +3392,7 @@
             "name": "BURN ENERGY ORIGINAL 260",
             "Unidade": "Un",
             "price": 7.8,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -3734,7 +3734,7 @@
             "name": "CAMPOS DE PIRACICABA 996",
             "Unidade": "Un",
             "price": 10.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4031,7 +4031,7 @@
             "name": "CARNE MOIDA BENEF.",
             "Unidade": "Kg",
             "price": 19.98,
-            "group": "DEPARTAMENTO P",
+            "group": "AÇOUGUE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4256,7 +4256,7 @@
             "name": "CERVEJA AMSTERL 473ML",
             "Unidade": "Un",
             "price": 6.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4265,7 +4265,7 @@
             "name": "CERVEJA BELLA VISTA 473ML",
             "Unidade": "Un",
             "price": 5.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4274,7 +4274,7 @@
             "name": "CERVEJA BRAHMA DUPLO 47",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4283,7 +4283,7 @@
             "name": "CERVEJA BRAHMA DUPLO 47",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4292,7 +4292,7 @@
             "name": "CERVEJA BUDWEISER 473ML",
             "Unidade": "Un",
             "price": 6.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4301,7 +4301,7 @@
             "name": "CERVEJA ITAIPAVA 473ML",
             "Unidade": "Un",
             "price": 5.7,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4310,7 +4310,7 @@
             "name": "CERVEJA NORTENA 473ML",
             "Unidade": "Un",
             "price": 11,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4319,7 +4319,7 @@
             "name": "CERVEJA PILSEN EISENBAHN",
             "Unidade": "Un",
             "price": 6.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4328,7 +4328,7 @@
             "name": "CERVEJA POLAR 473ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4337,7 +4337,7 @@
             "name": "CERVEJA POLAR 473ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4346,7 +4346,7 @@
             "name": "CERVEJA THEREZOPOLIS 473",
             "Unidade": "Un",
             "price": 6.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4355,7 +4355,7 @@
             "name": "CERVEJA ULTRA AMSTEL 269",
             "Unidade": "Un",
             "price": 5.25,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4418,7 +4418,7 @@
             "name": "CHA BARAO MISTO",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4598,7 +4598,7 @@
             "name": "CHALISE VINHO SECO 750 ML",
             "Unidade": "Un",
             "price": 24.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4607,7 +4607,7 @@
             "name": "CHALISE VINHO SECO 750 ML",
             "Unidade": "Un",
             "price": 24.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4643,7 +4643,7 @@
             "name": "CHARRUA 2L",
             "Unidade": "Un",
             "price": 8.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4652,7 +4652,7 @@
             "name": "CHARRUA 350ML",
             "Unidade": "Un",
             "price": 4,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4778,7 +4778,7 @@
             "name": "CHICOTE BLUEBERRY 500ML",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4787,7 +4787,7 @@
             "name": "CHICOTE MORANGO 500ML",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4796,7 +4796,7 @@
             "name": "CHICOTE MORANGO 500ML",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4868,7 +4868,7 @@
             "name": "CHOCO MILK BATAVO 200ML",
             "Unidade": "Un",
             "price": 3,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4940,7 +4940,7 @@
             "name": "CHOPP 1,5L",
             "Unidade": "Un",
             "price": 18.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4949,7 +4949,7 @@
             "name": "CHOPP STIER IPA 1L",
             "Unidade": "Un",
             "price": 15.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4958,7 +4958,7 @@
             "name": "CHOPPINHO 330ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4967,7 +4967,7 @@
             "name": "CHOPPINHO 330ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -4976,7 +4976,7 @@
             "name": "CHOPPINHO 330ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5057,7 +5057,7 @@
             "name": "CLIGHT LARANJA 8G",
             "Unidade": "Un",
             "price": 2.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5129,7 +5129,7 @@
             "name": "CLOS DES NOBLES MOSCATO",
             "Unidade": "Un",
             "price": 39.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5138,7 +5138,7 @@
             "name": "CLOSEUP HORTELA 70G",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5147,7 +5147,7 @@
             "name": "CLOSEUP MENTA 70G",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5156,7 +5156,7 @@
             "name": "CLOSEUP MENTA 70G",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5165,7 +5165,7 @@
             "name": "CLOSEUP PASTA DE DENTE 70",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5174,7 +5174,7 @@
             "name": "CLOSEUP PASTA DE DENTE 70",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5183,7 +5183,7 @@
             "name": "CLOSEUP PASTA DE DENTE 70",
             "Unidade": "Un",
             "price": 5.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5354,7 +5354,7 @@
             "name": "COCA COLA 200ML",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5363,7 +5363,7 @@
             "name": "COCA COLA +XP 350ML",
             "Unidade": "Un",
             "price": 4.7,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5372,7 +5372,7 @@
             "name": "COCA COLA 1,5L",
             "Unidade": "Un",
             "price": 9.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5381,7 +5381,7 @@
             "name": "COCA COLA 2,5LT",
             "Unidade": "Un",
             "price": 14.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5390,7 +5390,7 @@
             "name": "COCA COLA 200ML",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5399,7 +5399,7 @@
             "name": "COCA COLA 200ML ZERO",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5408,7 +5408,7 @@
             "name": "COCA COLA 2LT",
             "Unidade": "Un",
             "price": 11.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5417,7 +5417,7 @@
             "name": "COCA COLA 350ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5426,7 +5426,7 @@
             "name": "COCA COLA 350ML ZERO AÇU",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5435,7 +5435,7 @@
             "name": "COCA COLA 3LT",
             "Unidade": "Un",
             "price": 15.7,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5444,7 +5444,7 @@
             "name": "COCA COLA 600ML",
             "Unidade": "Un",
             "price": 5.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5453,7 +5453,7 @@
             "name": "COCA COLA CAFE 220ML",
             "Unidade": "Un",
             "price": 3,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5462,7 +5462,7 @@
             "name": "COCA COLA SEM AÇUCAR 2L",
             "Unidade": "Un",
             "price": 11.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5471,7 +5471,7 @@
             "name": "COCA COLA ZERO 1,5LT",
             "Unidade": "Un",
             "price": 9.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5480,7 +5480,7 @@
             "name": "COCA COLA ZERO 600ML",
             "Unidade": "Un",
             "price": 5.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5579,7 +5579,7 @@
             "name": "COLGATE MAX PROTEC 180G",
             "Unidade": "Un",
             "price": 14.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5588,7 +5588,7 @@
             "name": "COLGATE PASTA DE DENTE 90",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5597,7 +5597,7 @@
             "name": "COLGATE PASTA DE DENTE 90",
             "Unidade": "Un",
             "price": 6.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5606,7 +5606,7 @@
             "name": "COLGATE PASTA DE DENTE 90",
             "Unidade": "Un",
             "price": 6.2,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5615,7 +5615,7 @@
             "name": "COLGATE PASTA DE DENTE 90",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5660,7 +5660,7 @@
             "name": "COM/TEM LARANJA MAÇA 1L",
             "Unidade": "Un",
             "price": 10.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5696,7 +5696,7 @@
             "name": "COMTEM LARANJA /MAÇA 200",
             "Unidade": "Un",
             "price": 3,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5705,7 +5705,7 @@
             "name": "COMTEM UVA 200ML",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5768,7 +5768,7 @@
             "name": "CONTEM MAÇA 1LT",
             "Unidade": "Un",
             "price": 10.8,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5777,7 +5777,7 @@
             "name": "CONTEM UVA 1LT",
             "Unidade": "Un",
             "price": 10.8,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5957,7 +5957,7 @@
             "name": "COROTE 500ML",
             "Unidade": "Un",
             "price": 6.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5966,7 +5966,7 @@
             "name": "COROTE 500ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5975,7 +5975,7 @@
             "name": "COROTE 500ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5984,7 +5984,7 @@
             "name": "COROTE 500ML MORANGO",
             "Unidade": "Un",
             "price": 6.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -5993,7 +5993,7 @@
             "name": "COROTE LIMAO 500ML",
             "Unidade": "Un",
             "price": 6.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6002,7 +6002,7 @@
             "name": "COROTE LIMAO 500ML",
             "Unidade": "Un",
             "price": 6.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6011,7 +6011,7 @@
             "name": "COROTE LIMAO 500ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6110,7 +6110,7 @@
             "name": "COTONETE COTONBABY 150U",
             "Unidade": "Un",
             "price": 8.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6119,7 +6119,7 @@
             "name": "COTONETE COTONBABY 75UN",
             "Unidade": "Un",
             "price": 2.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6128,7 +6128,7 @@
             "name": "COTONETES JOHNSONS 75UN",
             "Unidade": "Un",
             "price": 8.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6137,7 +6137,7 @@
             "name": "COTTONBABY SABONETE LIQ",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6146,7 +6146,7 @@
             "name": "COTTONBABY CREME ASSAD",
             "Unidade": "Un",
             "price": 13.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6155,7 +6155,7 @@
             "name": "COTTONBABY HIDRATACAO IN",
             "Unidade": "Un",
             "price": 13.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6164,7 +6164,7 @@
             "name": "COTTONBABY RESCEM NASCI",
             "Unidade": "Un",
             "price": 13.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6173,7 +6173,7 @@
             "name": "COTTONBABY SABONETE LIQ",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6281,7 +6281,7 @@
             "name": "CREME BOZZANO PELE SENSI",
             "Unidade": "Un",
             "price": 11.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6362,7 +6362,7 @@
             "name": "CREME GILLETE PRESTOBAR",
             "Unidade": "Un",
             "price": 25.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6407,7 +6407,7 @@
             "name": "CRYSTAL AGUA C GAS 500ML",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6641,7 +6641,7 @@
             "name": "DADOBIER CERVEJA PILSEN 4",
             "Unidade": "Un",
             "price": 5.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6677,7 +6677,7 @@
             "name": "DEL CALLE KAPO SABOR ABA",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6695,7 +6695,7 @@
             "name": "DEL VALLE FRUT 1L",
             "Unidade": "Un",
             "price": 7,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6704,7 +6704,7 @@
             "name": "DEL VALLE KAPO SABOR LARA",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6722,7 +6722,7 @@
             "name": "DEL VALLE KAPO SABOR MOR",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6731,7 +6731,7 @@
             "name": "DEL VALLE KAPO SABOR UVA",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6749,7 +6749,7 @@
             "name": "DES ABOVE PEACEFULL 90G",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6758,7 +6758,7 @@
             "name": "DES ABOVE SAVAGE 90G",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6767,7 +6767,7 @@
             "name": "DES ABOVE WOMEM FRESH 9",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6776,7 +6776,7 @@
             "name": "DES ABOVE WOMEM INVISIBL",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6785,7 +6785,7 @@
             "name": "DES ABOVE WOMEM INVISIBL",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6794,7 +6794,7 @@
             "name": "DES ABOVE WOMEM INVISIBL",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -6803,7 +6803,7 @@
             "name": "DES ABOVE WOMEM LADY 90",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7397,7 +7397,7 @@
             "name": "DUCOCO 1LT",
             "Unidade": "Un",
             "price": 14.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7433,7 +7433,7 @@
             "name": "EISENBAHN PILSEN 355ML",
             "Unidade": "Un",
             "price": 6.8,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7505,7 +7505,7 @@
             "name": "ELEV 473ML",
             "Unidade": "Un",
             "price": 10,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7514,7 +7514,7 @@
             "name": "ELEV ENERGY DRINK FRUTAS",
             "Unidade": "Un",
             "price": 10,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7604,7 +7604,7 @@
             "name": "ENERGETICO BALY BRASIL 47",
             "Unidade": "Un",
             "price": 8.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7613,7 +7613,7 @@
             "name": "ENERGETICO RED BULL PESS",
             "Unidade": "Un",
             "price": 10.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7622,7 +7622,7 @@
             "name": "ENERGY DRINK 269 ML",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7631,7 +7631,7 @@
             "name": "ENERGY DRINK 473ML",
             "Unidade": "Un",
             "price": 10,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7640,7 +7640,7 @@
             "name": "ENERGY DRINK ELEV 269 ML",
             "Unidade": "Un",
             "price": 6.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7874,7 +7874,7 @@
             "name": "ESCOVA CONDOR CABELOS M",
             "Unidade": "Un",
             "price": 16.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7883,7 +7883,7 @@
             "name": "ESCOVA DE CABELO",
             "Unidade": "Un",
             "price": 13.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7892,7 +7892,7 @@
             "name": "ESCOVA DE CABELO",
             "Unidade": "Un",
             "price": 2.99,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7901,7 +7901,7 @@
             "name": "ESCOVA DE CABELO GRANEL",
             "Unidade": "Un",
             "price": 2.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7910,7 +7910,7 @@
             "name": "ESCOVA DE DENTES",
             "Unidade": "Un",
             "price": 9.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7919,7 +7919,7 @@
             "name": "ESCOVA DE DENTES CONDOR",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7928,7 +7928,7 @@
             "name": "ESCOVA DE DENTES GREEN",
             "Unidade": "Un",
             "price": 9.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7937,7 +7937,7 @@
             "name": "ESCOVA DE DENTES GREEN",
             "Unidade": "Un",
             "price": 9.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7946,7 +7946,7 @@
             "name": "ESCOVA DE NTAL COLGATE",
             "Unidade": "Un",
             "price": 7,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -7955,7 +7955,7 @@
             "name": "ESCOVA DE NTAL COLGATE",
             "Unidade": "Un",
             "price": 7,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8342,7 +8342,7 @@
             "name": "FANTA LARANJA SEM AÇUCA",
             "Unidade": "Un",
             "price": 10.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8351,7 +8351,7 @@
             "name": "FANTA LARANJA 200ML",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8360,7 +8360,7 @@
             "name": "FANTA LARANJA 2L",
             "Unidade": "Un",
             "price": 10.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8369,7 +8369,7 @@
             "name": "FANTA LARANJA 350ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8378,7 +8378,7 @@
             "name": "FANTA LARANJA 600ML",
             "Unidade": "Un",
             "price": 5.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8396,7 +8396,7 @@
             "name": "FANTA SABOR MARACUJA 2L",
             "Unidade": "Un",
             "price": 10.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8405,7 +8405,7 @@
             "name": "FANTA SABOR MARACUJA 350",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8414,7 +8414,7 @@
             "name": "FANTA SABOR UVA 600ML",
             "Unidade": "Un",
             "price": 5.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8423,7 +8423,7 @@
             "name": "FANTA UVA 2L",
             "Unidade": "Un",
             "price": 10.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8432,7 +8432,7 @@
             "name": "FANTA UVA 350ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8558,7 +8558,7 @@
             "name": "FARMAX ACETONA HIPOALER",
             "Unidade": "Un",
             "price": 5.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -8972,7 +8972,7 @@
             "name": "FIO DENTAL DENTRAT 100MT",
             "Unidade": "Un",
             "price": 6.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9440,7 +9440,7 @@
             "name": "FRUKI ZERO 600ML",
             "Unidade": "Un",
             "price": 4.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9449,7 +9449,7 @@
             "name": "FRUKI COLA 2L",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9458,7 +9458,7 @@
             "name": "FRUKI 200ML",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9467,7 +9467,7 @@
             "name": "FRUKI 350ML",
             "Unidade": "Un",
             "price": 4.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9476,7 +9476,7 @@
             "name": "FRUKI CITRUS 350ML",
             "Unidade": "Un",
             "price": 3.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9485,7 +9485,7 @@
             "name": "FRUKI GUARANA 2L",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9494,7 +9494,7 @@
             "name": "FRUKI GUARANA 600ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9503,7 +9503,7 @@
             "name": "FRUKI LARANJA 600ML",
             "Unidade": "Un",
             "price": 4.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9512,7 +9512,7 @@
             "name": "FRUKI LARANJINHA 2L",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9521,7 +9521,7 @@
             "name": "FRUKI LARANJINHA 2L",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9530,7 +9530,7 @@
             "name": "FRUKI LIGHT GUARANA 2L",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9539,7 +9539,7 @@
             "name": "FRUKI LIMAO 2L",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9548,7 +9548,7 @@
             "name": "FRUKI LIMAO 600ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9557,7 +9557,7 @@
             "name": "FRUKI UVA 2L",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9584,7 +9584,7 @@
             "name": "FRUKITO FRUTAS CITRICAS 20",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9593,7 +9593,7 @@
             "name": "FRUKITO FRUTAS CITRICAS 2L",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9602,7 +9602,7 @@
             "name": "FRUKITO LARANJINHA 500ML",
             "Unidade": "Un",
             "price": 3.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9611,7 +9611,7 @@
             "name": "FRUKITO LIMAO 200ML",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9629,7 +9629,7 @@
             "name": "FRUKITO UVA 500ML",
             "Unidade": "Un",
             "price": 3.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9737,7 +9737,7 @@
             "name": "GARIBALDI ESPUMANTE NATU",
             "Unidade": "Un",
             "price": 28.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9980,7 +9980,7 @@
             "name": "GILLETTE PRESTOBARBA 1 UN",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9989,7 +9989,7 @@
             "name": "GILLETTE PRESTOBARBA 1 UN",
             "Unidade": "Un",
             "price": 5.3,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -9998,7 +9998,7 @@
             "name": "GILLETTE SENSITIVE 2",
             "Unidade": "Un",
             "price": 3.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10007,7 +10007,7 @@
             "name": "GIN DOCE ROCK'S 1L",
             "Unidade": "Un",
             "price": 40,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10016,7 +10016,7 @@
             "name": "GIOVANA BABY BLANC VAVNIL",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10025,7 +10025,7 @@
             "name": "GIOVANA BABY BLUE 150G",
             "Unidade": "Un",
             "price": 17.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10034,7 +10034,7 @@
             "name": "GIOVANA BABY CLASSIC 150G",
             "Unidade": "Un",
             "price": 17.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10259,7 +10259,7 @@
             "name": "GRAPETTE UVA 250ML",
             "Unidade": "Un",
             "price": 3,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10268,7 +10268,7 @@
             "name": "GRAPETTE 2L",
             "Unidade": "Un",
             "price": 9.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10295,7 +10295,7 @@
             "name": "GUARANA FLORESTA 2L",
             "Unidade": "Un",
             "price": 7.3,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10304,7 +10304,7 @@
             "name": "GUARANA KUAT 2L",
             "Unidade": "Un",
             "price": 10.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10313,7 +10313,7 @@
             "name": "GUARANA LEAO C ACAI 300ML",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10322,7 +10322,7 @@
             "name": "GUARANA LEAO C ACAI 300ML",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10331,7 +10331,7 @@
             "name": "GUARANA SARANDI 290ML",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10340,7 +10340,7 @@
             "name": "GUARANA SARANDI 500ML",
             "Unidade": "Un",
             "price": 4.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10916,7 +10916,7 @@
             "name": "ICE TEA LEAO PESSEGO250",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10925,7 +10925,7 @@
             "name": "ICE TEA LEAO 1,5L",
             "Unidade": "Un",
             "price": 8.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10934,7 +10934,7 @@
             "name": "ICE TEA LEAO 450ML LIMAO",
             "Unidade": "Un",
             "price": 3.6,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10943,7 +10943,7 @@
             "name": "ICE TEA LEAO PESSEGO 1,50",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10952,7 +10952,7 @@
             "name": "ICE TEA LEAO PESSEGO 1,50",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10961,7 +10961,7 @@
             "name": "ICE TEA LEAO PESSEGO 1,50",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10988,7 +10988,7 @@
             "name": "INTIMUS ABSORVENTE 08 UNI",
             "Unidade": "Un",
             "price": 9.49,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -10997,7 +10997,7 @@
             "name": "INTIMUS ABSORVENTE 9",
             "Unidade": "Un",
             "price": 8.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -11096,7 +11096,7 @@
             "name": "IOGURTE FRIMESA FRUTAS V",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -11114,7 +11114,7 @@
             "name": "IOGURTE PIALAC AMEIXA",
             "Unidade": "Un",
             "price": 5.98,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -11510,7 +11510,7 @@
             "name": "KAPO DEL VALLE 200ML",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -11528,7 +11528,7 @@
             "name": "KERO COCO 1LT",
             "Unidade": "Un",
             "price": 15.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -11537,7 +11537,7 @@
             "name": "KERO COCO 200ML",
             "Unidade": "Un",
             "price": 3.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -11681,7 +11681,7 @@
             "name": "KIT PORTA ESCOVA E SABON",
             "Unidade": "Un",
             "price": 10,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12167,7 +12167,7 @@
             "name": "LEAO COM GAS 290ML",
             "Unidade": "Un",
             "price": 4.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12176,7 +12176,7 @@
             "name": "LEAO COM GAS LIMAO 290ML",
             "Unidade": "Un",
             "price": 4,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12194,7 +12194,7 @@
             "name": "LEAO GUARANA ACAI POWER",
             "Unidade": "Un",
             "price": 6.3,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12230,7 +12230,7 @@
             "name": "LEITE DE COCO 200ML COCO",
             "Unidade": "Un",
             "price": 8.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12338,7 +12338,7 @@
             "name": "LEITE FERMENTADO BOB ESP",
             "Unidade": "Un",
             "price": 1.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12347,7 +12347,7 @@
             "name": "LEITE FERMENTADO BOB ESP",
             "Unidade": "Un",
             "price": 1.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12527,7 +12527,7 @@
             "name": "LIDER CHAMPAGNE 660ML",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12536,7 +12536,7 @@
             "name": "LIDER CHAMPAGNE 660ML",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12545,7 +12545,7 @@
             "name": "LIDER CHAMPAGNE 660ML",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12554,7 +12554,7 @@
             "name": "LIDER CHAMPAGNE 660ML",
             "Unidade": "Un",
             "price": 13.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12563,7 +12563,7 @@
             "name": "LIDER CHAMPAGNE 660ML",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -12770,7 +12770,7 @@
             "name": "LOKAL BIER 473ML",
             "Unidade": "Un",
             "price": 4.1,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -13040,7 +13040,7 @@
             "name": "MAGUARY SUCO DE UVA TINT",
             "Unidade": "Un",
             "price": 18.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -13463,7 +13463,7 @@
             "name": "MARCUS JAMES 750ML TINTO",
             "Unidade": "Un",
             "price": 38.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -14120,7 +14120,7 @@
             "name": "MATTE LEAO 450ML",
             "Unidade": "Un",
             "price": 3.6,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -14129,7 +14129,7 @@
             "name": "MATTE LEAO LIMÃO 1,5LT",
             "Unidade": "Un",
             "price": 7.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -15056,7 +15056,7 @@
             "name": "MONSTER ENERGY TRAD 269",
             "Unidade": "Un",
             "price": 8,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -15065,7 +15065,7 @@
             "name": "MONSTER ENERGY TRAD 473",
             "Unidade": "Un",
             "price": 13,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -15074,7 +15074,7 @@
             "name": "MONSTER ENERGY ULTRA 473",
             "Unidade": "Un",
             "price": 10.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -15083,7 +15083,7 @@
             "name": "MONSTER ENERGY WATERME",
             "Unidade": "Un",
             "price": 13,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -15092,7 +15092,7 @@
             "name": "MONSTER JUICE MANGO 473",
             "Unidade": "Un",
             "price": 12,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -15272,7 +15272,7 @@
             "name": "MOX UMIDO ALGODÃO",
             "Unidade": "Un",
             "price": 18.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17063,7 +17063,7 @@
             "name": "PAPEL HIGIENICO FOLHA SIM",
             "Unidade": "Un",
             "price": 3.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17072,7 +17072,7 @@
             "name": "PAPEL HIGIENICO PERSONAL",
             "Unidade": "Un",
             "price": 12.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17081,7 +17081,7 @@
             "name": "PAPEL HIGIENICO PERSONAL",
             "Unidade": "Un",
             "price": 6.3,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17090,7 +17090,7 @@
             "name": "PAPEL HIGIENICO PERSONAL",
             "Unidade": "Un",
             "price": 13.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17099,7 +17099,7 @@
             "name": "PAPEL HIGIENICO DUETTO",
             "Unidade": "Un",
             "price": 9.8,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17108,7 +17108,7 @@
             "name": "PAPEL HIGIENICO ELITE ULTR",
             "Unidade": "Un",
             "price": 9.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17117,7 +17117,7 @@
             "name": "PAPEL HIGIENICO FANCY 4 RO",
             "Unidade": "Un",
             "price": 8.5,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17126,7 +17126,7 @@
             "name": "PAPEL HIGIENICO FLORAX 4 R",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17135,7 +17135,7 @@
             "name": "PAPEL HIGIENICO NEUTRO CL",
             "Unidade": "Un",
             "price": 9.1,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17144,7 +17144,7 @@
             "name": "PAPEL HIGIENICO PALOMA 4 R",
             "Unidade": "Un",
             "price": 5.15,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17441,7 +17441,7 @@
             "name": "PATRICIA DO SUL COCKTAIL 7",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17450,7 +17450,7 @@
             "name": "PATRICIA DO SUL COCKTAIL 7",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17666,7 +17666,7 @@
             "name": "PEPSI 2LT",
             "Unidade": "Un",
             "price": 11.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -17675,7 +17675,7 @@
             "name": "PEPSI 350M",
             "Unidade": "Un",
             "price": 4.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -18611,7 +18611,7 @@
             "name": "POP LIMONADA SUIÇA 25G",
             "Unidade": "Un",
             "price": 1.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -18620,7 +18620,7 @@
             "name": "POP SALADA DE FRUTAS 25G",
             "Unidade": "Un",
             "price": 1.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -18809,7 +18809,7 @@
             "name": "POWER ADE FRUTAS 500ML",
             "Unidade": "Un",
             "price": 4.4,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -18818,7 +18818,7 @@
             "name": "POWER ADE LARANJA 500ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -18827,7 +18827,7 @@
             "name": "POWER ADE LIMAO 500ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -18836,7 +18836,7 @@
             "name": "POWER ADE SABOR MIX FRUT",
             "Unidade": "Un",
             "price": 4.4,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -18845,7 +18845,7 @@
             "name": "POWER ADE SABOR UVA 500M",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -19178,7 +19178,7 @@
             "name": "PURO COCO 200ML",
             "Unidade": "Un",
             "price": 3.25,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -19610,7 +19610,7 @@
             "name": "RED BULL 250ML",
             "Unidade": "Un",
             "price": 12.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -19619,7 +19619,7 @@
             "name": "RED BULL COCO C ACAI 250M",
             "Unidade": "Un",
             "price": 10.8,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -19628,7 +19628,7 @@
             "name": "RED BULL FRUTAS SILVSTRE",
             "Unidade": "Un",
             "price": 10.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -19637,7 +19637,7 @@
             "name": "RED BULL MELANCIA 250ML",
             "Unidade": "Un",
             "price": 10.8,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -19646,7 +19646,7 @@
             "name": "RED BULL PITAYA 250ML",
             "Unidade": "Un",
             "price": 10.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -20285,7 +20285,7 @@
             "name": "SABONETE GIOVANNA BABY 9",
             "Unidade": "Un",
             "price": 5.9,
-            "group": "HIGIENE PESSOAL",
+            "group": "HIGIENE",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -20456,7 +20456,7 @@
             "name": "SAINT GERMAIN BLANE DE BL",
             "Unidade": "Un",
             "price": 34.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -20762,7 +20762,7 @@
             "name": "SAN MARTIN ROSE SUAVE 75",
             "Unidade": "Un",
             "price": 19.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -20915,7 +20915,7 @@
             "name": "SARANDI 1,5L C GAS",
             "Unidade": "Un",
             "price": 5.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -20924,7 +20924,7 @@
             "name": "SARANDI 1,5L S GAS",
             "Unidade": "Un",
             "price": 4.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -20933,7 +20933,7 @@
             "name": "SARANDI GUARANA 2L",
             "Unidade": "Un",
             "price": 7,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21095,7 +21095,7 @@
             "name": "SCHWEPPES 1,5L",
             "Unidade": "Un",
             "price": 9.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21104,7 +21104,7 @@
             "name": "SCHWEPPES 350ML",
             "Unidade": "Un",
             "price": 4.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21113,7 +21113,7 @@
             "name": "SCHWEPPES CITRUS 350ML",
             "Unidade": "Un",
             "price": 4.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21689,7 +21689,7 @@
             "name": "SPRITE 350ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21698,7 +21698,7 @@
             "name": "SPRITE 600ML",
             "Unidade": "Un",
             "price": 5.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21707,7 +21707,7 @@
             "name": "SPRITE DE LIMAO 2L",
             "Unidade": "Un",
             "price": 10.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21716,7 +21716,7 @@
             "name": "SPRITE LEMON 510ML",
             "Unidade": "Un",
             "price": 4.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21725,7 +21725,7 @@
             "name": "SPRITE LEMON FRESH 1,5L",
             "Unidade": "Un",
             "price": 8.6,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21734,7 +21734,7 @@
             "name": "SPRITE LIMAO 200ML",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21743,7 +21743,7 @@
             "name": "SPRITE LIMAO 200ML",
             "Unidade": "Un",
             "price": 2.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21752,7 +21752,7 @@
             "name": "STELA 330LM",
             "Unidade": "Un",
             "price": 7.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21779,7 +21779,7 @@
             "name": "STIER CERVEJA 355ML",
             "Unidade": "Un",
             "price": 5.25,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21788,7 +21788,7 @@
             "name": "STIER CHOPP 1,5L IPA",
             "Unidade": "Un",
             "price": 28.2,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21797,7 +21797,7 @@
             "name": "STIER CHOPP EXPORT 1,5L",
             "Unidade": "Un",
             "price": 19.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21806,7 +21806,7 @@
             "name": "STIER CHOPP PILSEN 1,5L",
             "Unidade": "Un",
             "price": 18.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21869,7 +21869,7 @@
             "name": "SUCO DE MAÇA 200ML COM/T",
             "Unidade": "Un",
             "price": 3.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21878,7 +21878,7 @@
             "name": "SUCO DEL VALLE 290ML",
             "Unidade": "Un",
             "price": 4.25,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21887,7 +21887,7 @@
             "name": "SUCO DEL VALLE 290ML",
             "Unidade": "Un",
             "price": 4.25,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21896,7 +21896,7 @@
             "name": "SUCO DELVALLE 1L LARANJA",
             "Unidade": "Un",
             "price": 7,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21923,7 +21923,7 @@
             "name": "SUCO INTEGRAL 1,5L VALE D",
             "Unidade": "Un",
             "price": 15.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21932,7 +21932,7 @@
             "name": "SUCO LARANJA POP 1LT",
             "Unidade": "Un",
             "price": 11.6,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21941,7 +21941,7 @@
             "name": "SUCO LARANJA POP 1LT",
             "Unidade": "Un",
             "price": 10.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21950,7 +21950,7 @@
             "name": "SUCO LARANJA TRIVIALI 1LT",
             "Unidade": "Un",
             "price": 4.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21959,7 +21959,7 @@
             "name": "SUCO UVA TRIVIALI 1LT",
             "Unidade": "Un",
             "price": 5.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21968,7 +21968,7 @@
             "name": "SUCOS POP ABACAXI 500ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21977,7 +21977,7 @@
             "name": "SUCOS POP LARANJA 500ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -21986,7 +21986,7 @@
             "name": "SUCOS POP UVA 500ML",
             "Unidade": "Un",
             "price": 6.5,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22040,7 +22040,7 @@
             "name": "SUKE SUMMER LARANJA 175G",
             "Unidade": "Un",
             "price": 5.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22049,7 +22049,7 @@
             "name": "SUKE SUMMER SALADA DE FR",
             "Unidade": "Un",
             "price": 5.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22121,7 +22121,7 @@
             "name": "TAMPICO FRUTAS CITRICAS 4",
             "Unidade": "Un",
             "price": 3.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22130,7 +22130,7 @@
             "name": "TAMPITCO UVA 450ML",
             "Unidade": "Un",
             "price": 3.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22139,7 +22139,7 @@
             "name": "TANG GUARANA 18G",
             "Unidade": "Un",
             "price": 1.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22148,7 +22148,7 @@
             "name": "TANG GUARANA 18G",
             "Unidade": "Un",
             "price": 1.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22157,7 +22157,7 @@
             "name": "TANG LARANJA 18G",
             "Unidade": "Un",
             "price": 1.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22166,7 +22166,7 @@
             "name": "TANG LARANJA 18G",
             "Unidade": "Un",
             "price": 1.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22175,7 +22175,7 @@
             "name": "TANG LARANJA C ACEROLA 18",
             "Unidade": "Un",
             "price": 1.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22184,7 +22184,7 @@
             "name": "TANG LARANJA E MAMAO 18G",
             "Unidade": "Un",
             "price": 1.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22193,7 +22193,7 @@
             "name": "TANG MARACUJA 18G",
             "Unidade": "Un",
             "price": 1.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22247,7 +22247,7 @@
             "name": "TANG TANGERINA 18G",
             "Unidade": "Un",
             "price": 1.9,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {
@@ -22256,7 +22256,7 @@
             "name": "TANG UVA 18G",
             "Unidade": "Un",
             "price": 1.99,
-            "group": "BEBIDA",
+            "group": "BEBIDAS",
             "image_url": "https://propao.agilecdn.com.br/2315_1.jpg?v=27-246342608"
         },
         {

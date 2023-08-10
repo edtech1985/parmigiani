@@ -10,15 +10,16 @@ import {
   SearchInput,
   SearchInputContainer,
   SearchIcon,
-} from "./Products";
+  FixedHeaderContainer,
+} from "./Hygiene";
 import { CartContext } from "../../components/CartContext/index";
 import productsData from "../../db/products.json";
 import removeAccents from "remove-accents";
 
-export default function Products() {
+export default function Hygiene() {
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [searchTerm, setSearchTerm] = useState("");
-  const { handleAddToCart } = useContext(CartContext);
+  const { addToCart } = useContext(CartContext);
 
   const openModal = (product) => {
     setSelectedProduct(product);
@@ -53,6 +54,10 @@ export default function Products() {
     )
   );
 
+  const hygieneProducts = filteredProducts.filter(
+    (product) => product.group === "HIGIENE"
+  );
+
   return (
     <div>
       <SearchInputContainer>
@@ -65,18 +70,26 @@ export default function Products() {
         <SearchIcon />
       </SearchInputContainer>
 
-      <ProductContainer>
-        <ColumnTitle>Nome</ColumnTitle>
-        <ColumnTitle>Valor</ColumnTitle>
-        <ColumnTitle>Adicionar</ColumnTitle>
-      </ProductContainer>
-      {filteredProducts.map((product) => (
+      <FixedHeaderContainer>
+        <ProductContainer>
+          <ColumnTitle align="left" width="50vw">
+            Nome
+          </ColumnTitle>
+          <ColumnTitle align="center" width="20vw">
+            Valor
+          </ColumnTitle>
+          <ColumnTitle align="right" width="15vw">
+            Adicionar
+          </ColumnTitle>
+        </ProductContainer>
+      </FixedHeaderContainer>
+      {hygieneProducts.map((product) => (
         <ProductContainer key={product.id}>
           <ProductName onClick={() => openModal(product)}>
             {product.name}
           </ProductName>
           <ProductPrice>R$ {product.price.toFixed(2)}</ProductPrice>
-          <AddToCartIcon onClick={() => handleAddToCart(product)} />
+          <AddToCartIcon onClick={() => addToCart(product)} />
         </ProductContainer>
       ))}
       {selectedProduct && (

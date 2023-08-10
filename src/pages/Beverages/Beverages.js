@@ -1,26 +1,56 @@
 import styled from "styled-components";
-import { FaShoppingCart } from "react-icons/fa";
+import { FaShoppingCart, FaSearch } from "react-icons/fa";
 
 export const ProductContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin: 0.25rem;
-  padding: 0.5rem;
+  padding: 0.25rem;
   border: 1px solid #ccc;
   width: 95vw;
+`;
+
+export const SearchInputContainer = styled.div`
+  position: relative;
+`;
+
+export const SearchInput = styled.input`
+  width: 50%;
+  padding: 10px 30px 10px 10px;
+  margin: 20px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: url(${({ icon }) => icon}) no-repeat right center;
+  background-size: 20px;
+`;
+
+export const SearchIcon = styled(FaSearch)`
+  color: #aaa;
+  cursor: pointer;
+`;
+
+export const FixedHeaderContainer = styled.div`
+  display: flex;
+  align-items: center;
+  background-color: lightgray;
+  /* position: sticky; */
+  top: 0;
+  z-index: 1;
 `;
 
 export const ColumnTitle = styled.span`
   font-weight: bold;
   flex: 1;
-  text-align: left;
-  width: ${(props) => props.width};
+  text-align: ${(props) => props.align || "left"};
+  width: ${(props) => props.width || "20%"};
 `;
 
 export const ProductName = styled.span`
   cursor: pointer;
   width: 30%;
+  text-align: left;
   &:hover {
     text-decoration: underline;
     color: var(--green);

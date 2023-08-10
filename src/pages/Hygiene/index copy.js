@@ -10,16 +10,15 @@ import {
   SearchInput,
   SearchInputContainer,
   SearchIcon,
-} from "./Products";
-
+} from "./Hygiene";
 import { CartContext } from "../../components/CartContext/index";
-
 import productsData from "../../db/products.json";
+import removeAccents from "remove-accents";
 
-export default function Products() {
+export default function Hygiene() {
   const [selectedProduct, setSelectedProduct] = useState(null);
-  const [searchTerm, setSearchTerm] = useState(""); // Estado para armazenar o termo de pesquisa
-  const { handleAddToCart } = useContext(CartContext);
+  const [searchTerm, setSearchTerm] = useState("");
+  const { addToCart } = useContext(CartContext);
 
   const openModal = (product) => {
     setSelectedProduct(product);
@@ -48,9 +47,10 @@ export default function Products() {
     };
   }, []);
 
-  // Filtrar produtos com base no termo de pesquisa
   const filteredProducts = productsData.ProductsList.filter((product) =>
-    product.name.toLowerCase().includes(searchTerm.toLowerCase())
+    removeAccents(product.name.toLowerCase()).includes(
+      removeAccents(searchTerm.toLowerCase())
+    )
   );
 
   return (
@@ -61,15 +61,14 @@ export default function Products() {
           placeholder="Pesquisar produto..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-        />
-        <SearchIcon onClick={searchTerm} />{" "}
-        {/* Adicione um evento de clique para a pesquisa aqui */}
+        ></SearchInput>
+        <SearchIcon />
       </SearchInputContainer>
 
       <ProductContainer>
-        <ColumnTitle width="30%">Nome</ColumnTitle>
-        <ColumnTitle width="30%">Valor</ColumnTitle>
-        <ColumnTitle width="30%">Adicionar</ColumnTitle>
+        <ColumnTitle>Nome</ColumnTitle>
+        <ColumnTitle>Valor</ColumnTitle>
+        <ColumnTitle>Adicionar</ColumnTitle>
       </ProductContainer>
       {filteredProducts.map((product) => (
         <ProductContainer key={product.id}>
@@ -77,7 +76,7 @@ export default function Products() {
             {product.name}
           </ProductName>
           <ProductPrice>R$ {product.price.toFixed(2)}</ProductPrice>
-          <AddToCartIcon onClick={() => handleAddToCart(product)} />
+          <AddToCartIcon onClick={() => addToCart(product)} />
         </ProductContainer>
       ))}
       {selectedProduct && (
