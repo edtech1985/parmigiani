@@ -14,9 +14,11 @@ export const StyledContainer = styled.div`
   overflow: auto;
 
   @media only screen and (max-width: 600px) {
-    height: auto;
-    max-height: 77vh;
-    width: 100%;
+    height: 70vh;
+    max-height: 100vh;
+    width: 100vw;
+    padding-top: 2.25rem;
+    padding-bottom: 1rem;
   }
 `;
 
