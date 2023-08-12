@@ -89,7 +89,7 @@ function Checkout() {
       </CheckoutSummary>
       <DivButton>
         <a
-          href={`https://wa.me/555191350280?text=${encodeURIComponent(
+          href={`https://wa.me/5551983096133?text=${encodeURIComponent(
             `Olá, Parmigiani! Escolhi os seguintes itens: ${cartItems
               .map((item) => `${item.quantity} ${item.name}`)
               .join(", ")}, total R$ ${getTotalPrice().toFixed(2)}`

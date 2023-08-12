@@ -13,7 +13,7 @@ function Footer() {
       <StyledIconList>
         <StyledIconItem color="green">
           <a
-            href="https://www.instagram.com/portosaborcatering/"
+            href="https://www.instagram.com/casaparmigiani/"
             target="_blank"
             rel="noreferrer"
             alt="Instagram Parmigiani"
@@ -36,7 +36,7 @@ function Footer() {
 
         <StyledIconItem color="red">
           <a
-            href="https://api.whatsapp.com/send?phone=5551983096133"
+            href="https://api.whatsapp.com/send?phone=555191350280"
             target="_blank"
             rel="noreferrer"
             alt="WhatsApp Parmigiani"
@@ -56,6 +56,7 @@ function Footer() {
           target="_blank"
           rel="noreferrer"
           alt="Desenvolvedor Web edtech1985"
+          aria-label="Desenvolvedor Web edtech1985"
         >
           <span>edtech1985</span>
         </a>

@@ -11,6 +11,8 @@ import {
   SearchInputContainer,
   SearchIcon,
   FixedHeaderContainer,
+  Container,
+  StyledBackground,
 } from "./Products";
 import { CartContext } from "../../components/CartContext/index";
 import productsData from "../../db/products.json";
@@ -55,16 +57,20 @@ export default function Products() {
   );
 
   return (
-    <div>
+    <Container>
+      <StyledBackground />
+
       <SearchInputContainer>
         <SearchInput
           type="text"
-          placeholder="Pesquisar produto..."
+          placeholder="O que você está procurando?"
+          aria-label="Pesquisar produto"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         ></SearchInput>
         <SearchIcon />
       </SearchInputContainer>
+
       <FixedHeaderContainer>
         <ProductContainer>
           <ColumnTitle align="left" width="50vw">
@@ -78,6 +84,7 @@ export default function Products() {
           </ColumnTitle>
         </ProductContainer>
       </FixedHeaderContainer>
+
       {filteredProducts.map((product) => (
         <ProductContainer key={product.id}>
           <ProductName onClick={() => openModal(product)}>
@@ -99,6 +106,7 @@ export default function Products() {
           <button onClick={closeModal}>Fechar</button>
         </ProductModal>
       )}
-    </div>
+      {""}
+    </Container>
   );
 }

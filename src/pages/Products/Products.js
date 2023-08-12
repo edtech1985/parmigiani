@@ -1,29 +1,42 @@
 import styled from "styled-components";
 import { FaShoppingCart, FaSearch } from "react-icons/fa";
+import backgroundImage from "../../img/store.jpg";
 
-export const ProductContainer = styled.div`
-  display: flex;
+export const Container = styled.section`
+  justify-content: center;
   align-items: center;
-  justify-content: space-between;
-  margin: 0.25rem;
-  padding: 0.25rem;
-  border: 1px solid #ccc;
-  width: 95vw;
+  margin: 0.5rem;
+  max-width: 100vw;
+`;
+
+export const StyledBackground = styled.div`
+  position: fixed; /* Alterado de 'absolute' para 'fixed' */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-image: url(${backgroundImage});
+  background-repeat: repeat;
+  background-size: auto;
+  background-position: center center;
+  background-attachment: fixed;
+  opacity: 0.25;
+  z-index: -10;
 `;
 
 export const SearchInputContainer = styled.div`
   position: relative;
+  align-items: center;
+  justify-content: center;
 `;
 
 export const SearchInput = styled.input`
-  width: 50%;
-  padding: 10px 30px 10px 10px;
-  margin: 20px;
-  font-size: 16px;
+  width: 60%;
+  padding: 0.5rem;
+  margin: 0.25rem;
+  font-size: 1rem;
   border: 1px solid #ccc;
   border-radius: 5px;
-  background: url(${({ icon }) => icon}) no-repeat right center;
-  background-size: 20px;
 `;
 
 export const SearchIcon = styled(FaSearch)`
@@ -34,10 +47,24 @@ export const SearchIcon = styled(FaSearch)`
 export const FixedHeaderContainer = styled.div`
   display: flex;
   align-items: center;
-  background-color: lightgray;
-  /* position: sticky; */
+  background-color: #ccc;
+  justify-content: space-between;
+  margin: 0.25rem;
+  padding: 0.25rem;
+  border: 1px solid #ccc;
+  width: 95vw;
   top: 0;
   z-index: 1;
+`;
+
+export const ProductContainer = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0.25rem;
+  padding: 0.25rem;
+  border: 1px solid #ccc;
+  width: 95vw;
 `;
 
 export const ColumnTitle = styled.span`
